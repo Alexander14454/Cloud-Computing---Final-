@@ -5,8 +5,8 @@ Cloud Computing is a service provided over the internet, usually these services 
 Here are the main sections of this report:
 * Cloud Concepts
 * Cloud Economics & Billing
-* Global Infrastructure
-* Cloud Security
+* AWS Global Infrastructure
+* AWS Cloud Security
 * Networking & Conect Delivery
 * Computing
 * Storage
@@ -27,4 +27,42 @@ The Amazon Cloud platform provides users with cloud-based products and services 
 
 5. Stop spending money on running and maintaining data centers: This is a simple idea, the less time you spend on maintaining what you have, the more time you can spend improving it. Having AWS professionals managae the upkeep tasks allows business to focus on moving foreword and improving other aspects of the business.
 
-6. Go global in minutes: Easily deploy your application to multiple regions around the world fast any easy with AWS. Using AWS for this reasons can improve lower latency and provide a better user experience. 
+6. Go global in minutes: Easily deploy your application to multiple regions around the world fast any easy with AWS. Using AWS for this reasons can improve lower latency and provide a better user experience.
+
+## Cloud Economics & Billing
+Unlike many cloud service providers, AWS is a pay as you go system. Which mean that unlike many online services it does not generally ask for a static payment like many service providers. That is because AWS's pay as you go system only charges you for resources you use, meaning that you pay for what you use rather the pay for what you get system that many providers use. 
+
+Main financial benefits of using AWS: 
+
+1. You only have to pay for the resources, processing power and data transmission that is needed.
+
+2. Paying a larger up front amount on services can save you up to 75 percent over the equivalent on-demand capacity.
+
+3. Pay less for using more, pay for more storage and procession power can actually decrease the cost of those resources over all.
+
+4. Pay less as AWS becomes larger, since 2006 AWS has lowered pricing 75 times.
+
+## Global Infrastructure
+AWS Global Infastructure is designed and built to deliver flexible, reliabel, fast, scalable and secure cloud computing enviroment to many regions around the world. This allows you to develop and deploy applications across many regions based on variables like data governance, proximity to customers, service availability and cost. Availability zones are made for these exact reasons, they are comprised of a data center that holds information in that region. 
+
+What are the benefits of setting up availablility zones: 
+
+1. They are designed for fault isolation
+
+2. They are interconnected with other availability zones by using high-speed private networking.
+
+3. You choose the availability zone
+
+4. Multiple availability zones allows faster latency speeds for users. 
+
+
+
+
+
+## AWS Cloud Security
+## Networking & Connect Delivery
+## Computing
+## Storage
+## Databases
+## Cloud Architecture
+## Auto Scaling & Monitoring
