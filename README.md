@@ -118,7 +118,7 @@ Example uses of AWS EC2 instances:
 
 
 ## Databases
-
+AWS Relational Database is unique because like many of the other services provided by AWS it is super flexible and cost affective. It allows for a reliable and fast SQL database that bills you based on how many resources you actually use per day. AWS allows you to stop database instances whenever needed, take snapshots to record information and it even has a fault tolerance system so that your database stays up and running no matter what. 
 
 
 ## Cloud Architecture
