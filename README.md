@@ -18,27 +18,27 @@ Here are the main sections of this report:
 * Auto Scaling & Monitoring
 
 <img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/Cloud%20Concepts.png">
-The Amazon Cloud platform provides users with cloud-based products and services that are designed to work together. There are many different catogories of sercives, each with their own unique tools and softwares for developmemt in the cloud, many of these services provide specific uses for an organizations goals. Shifting to a Cloud services can be tricky for businesses because most companies rely on technology for technical infatrtructure and record keeping. Luckily AWS Cloud Adoption Framework can support businesses while they make their shift over the AWS, so, how does AWS help business make this leap to a whole new system? AWS CAF provides guidance when it comes to making the big switch to a new platform, IT professional at AWS aim to help the adoption of businesses by breaking down the process into managable steps. So what are the advantages of using Amazon Cloud Services vs the traditional IT structure. 
+The Amazon Cloud platform provides users with cloud-based products and services that are designed to work together. There are many different catogories of services, each with their own unique tools and softwares for developmemt in the cloud, many of these services provide specific uses for an organization's goals. Shifting to a Cloud services can be tricky for businesses because most companies rely on technology for technical infrastructure and record keeping. Luckily AWS Cloud Adoption Framework can support businesses while they make their shift over to AWS, so, how does AWS help business make this leap to a whole new system? AWS CAF provides guidance when it comes to making the big switch to a new platform, IT professional at AWS aim to help the adoption of businesses by breaking down the process into managable steps. So what are the advantages of using Amazon Cloud Services vs the traditional IT structure. 
 
-1. Trade Capital expense for variable expense: Managing something yourself, let's say a database. When creating a large scale database it requires physical space, power, cooling, maintenance and upkeep costs. Managing all of these expenses can be time consuming for a business and some of those databases may never be used, or on the other hand, a business may have underestimated it's work load and need to buy more equipment. With Cloud services you do not need to manage anything on the hardware, and you need only to pay for what you use. A system like this allows businesses to easily set a budget on the resources used and manage those resources affectively.
+1. Trade Capital expense for variable expense: Managing something yourself, let's say a database. When creating a large scale database it requires physical space, power, cooling, maintenance and upkeep costs. Managing all of these expenses can be time consuming for a business and some of those databases may never be used, or on the other hand, a business may have underestimated it's work load and need to buy more equipment. With Cloud services you do not need to manage anything on the hardware, and you need only to pay for what you use. A system like this allows businesses to easily set a budget on the resources used and manage those resources effectively.
 
-2. Benefit from massive economies of scale: By using cloud computing you can achiece lower cost of services than you would on your own. AWS is built for scale so huge amounts of computational power can be easily managed by the AWS platform, giving the user a better service while keeping the cost low.
+2. Benefits from massive economies of scale: By using cloud computing you can achiece lower cost of services than you would on your own. AWS is built for scale so huge amounts of computational power can be easily managed by the AWS platform, giving the user a better service while keeping the cost low.
 
-3. Stop guessing capacity: As stated before the cost of setting a IT system up can be a rigorious task, a business needs an accurate idea of the technical capacity.  Guessing too high can cause a business to invest for money and time than need. Guessing too low can cause a business to run into problems with load management later down the line. Using AWS helps to remove that problem by allowing the user to manage the amount of capacity need and maxamize cost effectiveness.
+3. Stop guessing capacity: As stated before the cost of setting a IT system up can be a rigorious task, a business needs an accurate idea of the technical capacity.  Guessing too high can cause a business to invest for money and time than need. Guessing too low can cause a business to run into problems with load management later down the line. Using AWS helps to remove that problem by allowing the user to manage the amount of capacity need and maximize cost effectiveness.
 
-4. Increase speed and agility: In AWS, services are just a click away most of the time. Allowing users to create new resources and remove ones that are no longer in us or needed. This kind of flexability allows users to easily experiement with new IT structures while not having to commit to one way of achieving a desired outcome. 
+4. Increase speed and agility: In AWS, services are just a click away most of the time. Allowing users to create new resources and remove ones that are no longer in us or needed. This kind of flexability allows users to easily experiment with new IT structures while not having to commit to one way of achieving a desired outcome. 
 
 5. Stop spending money on running and maintaining data centers: This is a simple idea, the less time you spend on maintaining what you have, the more time you can spend improving it. Having AWS professionals managae the upkeep tasks allows business to focus on moving foreword and improving other aspects of the business.
 
-6. Go global in minutes: Easily deploy your application to multiple regions around the world fast any easy with AWS. Using AWS for this reasons can improve lower latency and provide a better user experience.
+6. Go global in minutes: Easily deploy your application to multiple regions around the world fast any easy with AWS. Using AWS for this reasons can improve low latency and provide a better user experience.
 
 
 <img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/Cloud%20Economics%20%26%20Billing.png">
-Unlike many cloud service providers, AWS is a pay as you go system. Which mean that unlike many online services it does not generally ask for a static payment like many service providers. That is because AWS's pay as you go system only charges you for resources you use, meaning that you pay for what you use rather the pay for what you get system that many providers use. 
+Unlike many cloud service providers, AWS is a pay as you go system. Which mean that unlike many online services it does not generally ask for a static payment like many other providers. That is because AWS's pay as you go system only charges you for resources you use, meaning that you pay for what you use rather the pay for what you get.
 
 Main financial benefits of using AWS: 
 
-1. You only have to pay for the resources, processing power and data transmission that is needed.
+1. You only have to pay for the resources, processing power and data transmission that are used.
 
 2. Paying a larger up front amount on services can save you up to 75 percent over the equivalent on-demand capacity.
 
@@ -92,7 +92,7 @@ Software offered by AWS to better protect your business:
 
 
 <img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/Networking%20%26%20Content%20Delivery.png">
-Long past the days of managing a messy network closet with wires hanging from every rack possible. AWS has made networking easier and simpler with AWS VPC(Virual Private Cloud). From setting up a virtual enviroment to test a new software to setting up internet gateways to your webpage, AWS makes networking easy so that you can focus on your business. VPC allows for secure connection for websites, applications, data centers, regions and availability zones. 
+Long past the days of managing a messy network closet with wires hanging from every rack possible. AWS has made networking easier and simpler with AWS VPC(Virual Private Cloud). From setting up a virtual enviroment to testing a new software to setting up internet gateways to your webpage, AWS makes networking easy so that you can focus on your business. VPC allows for secure connection for websites, applications, data centers, regions and availability zones. 
 
 VPC networking options:
 * Internet gateway
@@ -106,7 +106,7 @@ VPC networking options:
 
 
 <img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/Computing.png">
-Computing power is an important aspect of managing any IT system. Managing what takes priority in computing power is important when it comes to cost and time. Over estimation an aspect of the IT system can lead to larger expenses and underestimating can lead to not having enough processing power for work loads. AWS EC2 instances make these tasks cost affective by allowing you to easily delete, edit and create instances in order to fulfill the current work load required. 
+Computing power is an important aspect of any IT system. Managing what takes priority in computing power is important when it comes to cost and time. Over estimation an aspect of the IT system can lead to larger expenses and underestimating can lead to not having enough processing power for work loads. AWS EC2 instances make these tasks cost affective by allowing you to easily delete, edit and create instances in order to fulfill the current work load requirements. 
 
 Example uses of AWS EC2 instances: 
 * Application server
@@ -122,7 +122,7 @@ Example uses of AWS EC2 instances:
 
 
 <img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/Storage.png">
-Digital storage has become a large part of managing a business, records, images, project, accounting files are all example of data that can be kept on a normal dark drive. AWS has made managing files and documents easy with EBS and S3, with these tools you can create storage instances with the size of your choosing, and upload/download files from anywhere in the world. 
+Digital storage has become a large part of managing a business's records, images, projects and accounting files are all example of data that can be kept on a normal dark drive. AWS has made managing files and documents easy with EBS and S3, with these tools you can create storage instances with the size of your choosing, and upload/download files from anywhere in the world. 
 
 Benefits of using EBS and S3:
 
@@ -130,7 +130,7 @@ Benefits of using EBS and S3:
 
 2. Back up and restore critical data: You can use (RPO)Recovery Point Objectives and (RTO)Recovery Time Objectives to create backups and recovery files.
 
-3. Archive data at tge lowest cost: Move data archives to the Amazon S3 Glacier storage classes to lower costs.
+3. Archive data at the lowest cost: Move data archives to the Amazon S3 Glacier storage classes to lower costs.
 
 4. Run Cloud-native application: Build fast, powerful mobile and web-based cloud-native apps.
 
@@ -148,15 +148,15 @@ Other database engines offered by AWS:
 
 
 <img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/Cloud%20Architecture.png">
-Architecture is the art of and science of design that goes into creating a structure like a building. In the world of IT infastructure it is needed to create a well design system that implements your business function and business goals. AWS Well-Architected Framework is a system designed so that users follow the best business and technical practices when designing an IT infastructure. The main pillars of cloud architecture are Operational Excellence, Security, Reliability, Performance, Cost Optimization and Sustainability.
+Architecture is the art of and science of design that goes into creating a structure like a building. In the world of IT infastructure it is needed to create a well designed system that implements your business function and business goals. AWS Well-Architected Framework is a system designed so that users follow the best business and technical practices when designing an IT infrastructure. The main pillars of cloud architecture are Operational Excellence, Security, Reliability, Performance, Cost Optimization and Sustainability.
 
 1. Operational Excellence Pillar: Focuses on running and monitoring systems, and continually improving processes and procedures.
 
-2. Security Pillar: Focuses on protecting information systems and private data, like managing user permission, establishing controls to detect security events.
+2. Security Pillar: Focuses on protecting information systems and private data, like managing user permissions and establishing controls to detect security events.
 
 3. Reliability Pillar: Focues on workloads performing their intended functions and how to recover quickly from failure, designing system that have fault tolorance, and distrubition of tasks.
 
-4. Performance Efficiency Pillar: Focuses on structured allocation of IT and computing resources, selection resource types and sizes optomized for certain work loads.
+4. Performance Efficiency Pillar: Focuses on structured allocation of IT and computing resources, selecting resource types and sizes optomized for certain work loads.
 
 5. Cost Optimization Pillar: Focuses on avoiding unnecessary costs, selecting resources at of the right type and quantity.
 
@@ -174,4 +174,4 @@ Use cases for Elastic Load Balancer:
 
 3. Enable hybrid Load balancing: Elastic Load Balancing allows you to split load balancing across AWS and on-premises resources by using the same load balancer for both.
 
-To be as cost effective as possible AWS has created CloudWatch, allowing you to monitor instances, websites and applications that run on the AWS Cloud. It gives you insite on how much of your infastructure is actually being used, how effectively your applications are running or if you should launch more EC2 instances to take on a greater work load. Infact CloudWatch can be used to set alarms that trigger certain actions like senting you a notification or creating more instances using the Elastic Load Balancing system. 
+To be as cost effective as possible AWS has created CloudWatch, allowing you to monitor instances, websites and applications that run on the AWS Cloud. It gives you insite on how much of your infrastructure is actually being used, how effectively your applications are running or if you should launch more EC2 instances to take on a greater work load. Infact CloudWatch can be used to set alarms that trigger certain actions like senting you a notification or creating more instances using the Elastic Load Balancing system. 
