@@ -9,7 +9,7 @@ Here are the main sections of this report:
 * AWS Cloud Security
 * Networking & Content Delivery
 * Computing
-* Storage X
+* Storage
 * Databases 
 * Cloud Architecture 
 * Auto Scaling & Monitoring 
@@ -113,7 +113,17 @@ Example uses of AWS EC2 instances:
 * Proxy server
 
 ## Storage
+Digital storage has become a large part of managing a business, records, images, project, accounting files are all example of data that can be kept on a normal dark drive. AWS has made managing files and documents easy with EBS and S3, with these tools you can create storage instances with the size of your choosing, and upload/download files from anywhere in the world. 
 
+Benefits of using EBS and S3:
+
+1. Build a data lake: Run large data analysis with machine learning and AI to gather data insights.
+
+2. Back up and restore critical data: You can use (RPO)Recovery Point Objectives and (RTO)Recovery Time Objectives to create backups and recovery files.
+
+3. Archive data at tge lowest cost: Move data archives to the Amazon S3 Glacier storage classes to lower costs.
+
+4. Run Cloud-native application: Build fast, powerful mobile and web-based cloud-native apps.
 
 
 
