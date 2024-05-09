@@ -10,9 +10,9 @@ Here are the main sections of this report:
 * Networking & Content Delivery
 * Computing
 * Storage X
-* Databases X
-* Cloud Architecture X
-* Auto Scaling & Monitoring X
+* Databases 
+* Cloud Architecture 
+* Auto Scaling & Monitoring 
 
 ## Cloud Concepts 
 The Amazon Cloud platform provides users with cloud-based products and services that are designed to work together. There are many different catogories of sercives, each with their own unique tools and softwares for developmemt in the cloud, many of these services provide specific uses for an organizations goals. Shifting to a Cloud services can be tricky for businesses because most companies rely on technology for technical infatrtructure and record keeping. Luckily AWS Cloud Adoption Framework can support businesses while they make their shift over the AWS, so, how does AWS help business make this leap to a whole new system? AWS CAF provides guidance when it comes to making the big switch to a new platform, IT professional at AWS aim to help the adoption of businesses by breaking down the process into managable steps. So what are the advantages of using Amazon Cloud Services vs the traditional IT structure. 
@@ -129,7 +129,19 @@ Other database engines offered by AWS:
 * RDS for Db2
 
 ## Cloud Architecture
+Architecture is the art of and science of design that goes into creating a structure like a building. In the world of IT infastructure it is needed to create a well design system that implements your business function and business goals. AWS Well-Architected Framework is a system designed so that users follow the best business and technical practices when designing an IT infastructure. The main pillars of cloud architecture are Operational Excellence, Security, Reliability, Performance, Cost Optimization and Sustainability.
 
+1. Operational Excellence Pillar: Focuses on running and monitoring systems, and continually improving processes and procedures.
+
+2. Security Pillar: Focuses on protecting information systems and private data, like managing user permission, establishing controls to detect security events.
+
+3. Reliability Pillar: Focues on workloads performing their intended functions and how to recover quickly from failure, designing system that have fault tolorance, and distrubition of tasks.
+
+4. Performance Efficiency Pillar: Focuses on structured allocation of IT and computing resources, selection resource types and sizes optomized for certain work loads.
+
+5. Cost Optimization Pillar: Focuses on avoiding unnecessary costs, selecting resources at of the right type and quantity.
+
+6. Sustainability Pillar: Focuses on minimizing the enviromental import of running cloud workloads, understanding impact and using resources effectively to mitigate down stream impact. 
 
 
 ## Auto Scaling & Monitoring
@@ -143,6 +155,3 @@ Use cases for Elastic Load Balancer:
 3. Enable hybrid Load balancing: Elastic Load Balancing allows you to split load balancing across AWS and on-premises resources by using the same load balancer for both.
 
 To be as cost effective as possible AWS has created CloudWatch, allowing you to monitor instances, websites and applications that run on the AWS Cloud. It gives you insite on how much of your infastructure is actually being used, how effectively your applications are running or if you should launch more EC2 instances to take on a greater work load. Infact CloudWatch can be used to set alarms that trigger certain actions like senting you a notification or creating more instances using the Elastic Load Balancing system. 
-
-
-
