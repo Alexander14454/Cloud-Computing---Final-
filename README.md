@@ -1,6 +1,6 @@
 # Cloud Computing Final Project 
 
-
+<img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/github%20final%20project%20banner.png">
 
 Cloud Computing is a service provided over the internet, usually these services spand from domain registering, website hosting and online forms of storage like DropBox and Google Drive. AWS provides all of these cloud services and more. In this report we will go over all the many uses of AWS and how it can benefit your business.
 
@@ -17,7 +17,7 @@ Here are the main sections of this report:
 * Cloud Architecture
 * Auto Scaling & Monitoring
 
-## Cloud Concepts 
+<img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/Cloud%20Concepts.png">
 The Amazon Cloud platform provides users with cloud-based products and services that are designed to work together. There are many different catogories of sercives, each with their own unique tools and softwares for developmemt in the cloud, many of these services provide specific uses for an organizations goals. Shifting to a Cloud services can be tricky for businesses because most companies rely on technology for technical infatrtructure and record keeping. Luckily AWS Cloud Adoption Framework can support businesses while they make their shift over the AWS, so, how does AWS help business make this leap to a whole new system? AWS CAF provides guidance when it comes to making the big switch to a new platform, IT professional at AWS aim to help the adoption of businesses by breaking down the process into managable steps. So what are the advantages of using Amazon Cloud Services vs the traditional IT structure. 
 
 1. Trade Capital expense for variable expense: Managing something yourself, let's say a database. When creating a large scale database it requires physical space, power, cooling, maintenance and upkeep costs. Managing all of these expenses can be time consuming for a business and some of those databases may never be used, or on the other hand, a business may have underestimated it's work load and need to buy more equipment. With Cloud services you do not need to manage anything on the hardware, and you need only to pay for what you use. A system like this allows businesses to easily set a budget on the resources used and manage those resources affectively.
