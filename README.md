@@ -3,6 +3,7 @@
 Cloud Computing is a service provided over the internet, usually these services spand from domain registering, website hosting and online forms of storage like DropBox and Google Drive. AWS provides all of these cloud services and more. In this report we will go over all the many uses of AWS and how it can benefit your business.
 
 Here are the main sections of this report:
+
 * Cloud Concepts
 * Cloud Economics & Billing
 * AWS Global Infrastructure
@@ -10,9 +11,9 @@ Here are the main sections of this report:
 * Networking & Content Delivery
 * Computing
 * Storage
-* Databases 
-* Cloud Architecture 
-* Auto Scaling & Monitoring 
+* Databases
+* Cloud Architecture
+* Auto Scaling & Monitoring
 
 ## Cloud Concepts 
 The Amazon Cloud platform provides users with cloud-based products and services that are designed to work together. There are many different catogories of sercives, each with their own unique tools and softwares for developmemt in the cloud, many of these services provide specific uses for an organizations goals. Shifting to a Cloud services can be tricky for businesses because most companies rely on technology for technical infatrtructure and record keeping. Luckily AWS Cloud Adoption Framework can support businesses while they make their shift over the AWS, so, how does AWS help business make this leap to a whole new system? AWS CAF provides guidance when it comes to making the big switch to a new platform, IT professional at AWS aim to help the adoption of businesses by breaking down the process into managable steps. So what are the advantages of using Amazon Cloud Services vs the traditional IT structure. 
