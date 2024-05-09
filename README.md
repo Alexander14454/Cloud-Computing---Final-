@@ -7,12 +7,12 @@ Here are the main sections of this report:
 * Cloud Economics & Billing
 * AWS Global Infrastructure
 * AWS Cloud Security
-* Networking & Conect Delivery
+* Networking & Content Delivery
 * Computing
-* Storage
-* Databases
-* Cloud Architecture
-* Auto Scaling & Monitoring
+* Storage X
+* Databases X
+* Cloud Architecture X
+* Auto Scaling & Monitoring X
 
 ## Cloud Concepts 
 The Amazon Cloud platform provides users with cloud-based products and services that are designed to work together. There are many different catogories of sercives, each with their own unique tools and softwares for developmemt in the cloud, many of these services provide specific uses for an organizations goals. Shifting to a Cloud services can be tricky for businesses because most companies rely on technology for technical infatrtructure and record keeping. Luckily AWS Cloud Adoption Framework can support businesses while they make their shift over the AWS, so, how does AWS help business make this leap to a whole new system? AWS CAF provides guidance when it comes to making the big switch to a new platform, IT professional at AWS aim to help the adoption of businesses by breaking down the process into managable steps. So what are the advantages of using Amazon Cloud Services vs the traditional IT structure. 
@@ -55,14 +55,74 @@ What are the benefits of setting up availablility zones:
 
 4. Multiple availability zones allows faster latency speeds for users. 
 
-
-
-
-
 ## AWS Cloud Security
-## Networking & Connect Delivery
+Security is one of the most important aspect of the modern business world, in todays world every business needs a website and a IT system in order to function and get their product/service out into market. Thankfully AWS Cloud Security cuts the physical need for security out of the equation. Seeing how AWS manages the hardware, that only leaves the actual business to take care of the data security, this is called the AWS shared responsibility model. 
+
+Responsibilities of AWS: 
+* Compute
+* Storage
+* Database
+* Networking
+* Regions
+* Availability zones
+* Edge locations
+
+Responsibilities of Customer:
+* Customer data
+* Platform
+* Application
+* Identity
+* Access Management
+* Encryption
+* Firewalls
+* Network traffic
+
+Software offered by AWS to better protect your business:
+1. AWS Trusted Advisor: A tool that analyzes your AWS enviroment and provides real-time guidance to help manage your resources and keep them safe
+
+2. AWS Shield: A tool that allows you to set up anti-DDOS protection against attackers by always being on the lookout for attacks and mitigation service down time.
+
+3. AWS Identity and Access Management: A software that manages the access, editing and viewing of AWS resources by setting up control groups that allow for only certain actions. This allows you to safe guard who can access the resource, which resources can be access, and how resources can be accessed. 
+
+## Networking & Content Delivery
+Long past the days of managing a messy network closet with wires hanging from every rack possible. AWS has made networking easier and simpler with AWS VPC(Virual Private Cloud). From setting up a virtual enviroment to test a new software to setting up internet gateways to your webpage, AWS makes networking easy so that you can focus on your business. VPC allows for secure connection for websites, applications, data centers, regions and availability zones. 
+
+VPC networking options:
+* Internet gateway
+* NAT gateway
+* VPC endpoint
+* VPC peering
+* VPC sharing
+* AWS site-to-site VPN
+* AWS direct connect
+* AWS transit gateway
+
 ## Computing
+Computing power is an important aspect of managing any an IT system. Managing what takes priority in computing power is important when it comes to cost and time. Over estimation an aspect of the IT system can lead to larger expenses and underestimating can lead to not having enough processing power for work loads. AWS EC2 instances make these tasks cost affective, flexable and scalable. EC2 allows businesses to control aspect of things like databases and application, how often they run, how much data space they take up and EC2 can even expand to other EC2 instances to manage a larger work loads. 
+
+Example uses of AWS EC2 instances: 
+* Application server
+* Web server
+* Database server
+* Game server
+* Mail server
+* Media server
+* Catalog server
+* File server
+* Computing server
+* Proxy server
+
 ## Storage
+
+
+
+
 ## Databases
+
+
+
 ## Cloud Architecture
+
+
+
 ## Auto Scaling & Monitoring
