@@ -98,7 +98,7 @@ VPC networking options:
 * AWS transit gateway
 
 ## Computing
-Computing power is an important aspect of managing any an IT system. Managing what takes priority in computing power is important when it comes to cost and time. Over estimation an aspect of the IT system can lead to larger expenses and underestimating can lead to not having enough processing power for work loads. AWS EC2 instances make these tasks cost affective, flexable and scalable. EC2 allows businesses to control aspect of things like databases and application, how often they run, how much data space they take up and EC2 can even expand to other EC2 instances to manage a larger work loads. 
+Computing power is an important aspect of managing any IT system. Managing what takes priority in computing power is important when it comes to cost and time. Over estimation an aspect of the IT system can lead to larger expenses and underestimating can lead to not having enough processing power for work loads. AWS EC2 instances make these tasks cost affective, flexable and scalable. EC2 allows businesses to control aspect of things like databases and application, how often they run, how much data space they take up and EC2 can even expand to other EC2 instances to manage a larger work loads. 
 
 Example uses of AWS EC2 instances: 
 * Application server
