@@ -1,6 +1,6 @@
 # Cloud Computing Final Project 
 
-<img src="https://github.com/Alexander14454/Cloud-Computing-Final/blob/main/Images/github%20final%20project%20banner.png">
+
 
 Cloud Computing is a service provided over the internet, usually these services spand from domain registering, website hosting and online forms of storage like DropBox and Google Drive. AWS provides all of these cloud services and more. In this report we will go over all the many uses of AWS and how it can benefit your business.
 
