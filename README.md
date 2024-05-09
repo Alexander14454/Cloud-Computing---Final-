@@ -98,7 +98,7 @@ VPC networking options:
 * AWS transit gateway
 
 ## Computing
-Computing power is an important aspect of managing any IT system. Managing what takes priority in computing power is important when it comes to cost and time. Over estimation an aspect of the IT system can lead to larger expenses and underestimating can lead to not having enough processing power for work loads. AWS EC2 instances make these tasks cost affective, flexable and scalable. EC2 allows businesses to control aspect of things like databases and application, how often they run, how much data space they take up and EC2 can even expand to other EC2 instances to manage a larger work loads. 
+Computing power is an important aspect of managing any IT system. Managing what takes priority in computing power is important when it comes to cost and time. Over estimation an aspect of the IT system can lead to larger expenses and underestimating can lead to not having enough processing power for work loads. AWS EC2 instances make these tasks cost affective by allowing you to easily delete, edit and create instances in order to fulfill the current work load required. 
 
 Example uses of AWS EC2 instances: 
 * Application server
@@ -118,11 +118,31 @@ Example uses of AWS EC2 instances:
 
 
 ## Databases
-AWS Relational Database is unique because like many of the other services provided by AWS it is super flexible and cost affective. It allows for a reliable and fast SQL database that bills you based on how many resources you actually use per day. AWS allows you to stop database instances whenever needed, take snapshots to record information and it even has a fault tolerance system so that your database stays up and running no matter what. 
+AWS RDS(Relational Database System) is unique because like many of the other services provided by AWS it is super flexible and cost affective. It allows for a reliable and fast SQL database that bills you based on how many resources you actually use per day. AWS allows you to stop database instances whenever needed, take snapshots to record information and it even has a fault tolerance system so that your database stays up and running no matter what. 
 
+Other database engines offered by AWS:
+* Amazon Aurora
+* RDS for PostgreSQL
+* RDS for MySQL
+* RDS for SQL Server
+* RDS for Oracle
+* RDS for Db2
 
 ## Cloud Architecture
 
 
 
 ## Auto Scaling & Monitoring
+Modern websites and application must take in hundreds of request without being slowed down or being overwhelmed. AWS Elastic Load Balancing is created to distribute data across multiple targets such as EC2 instances, containers and IP addresses across multiple availability zones. Elastic Load balancer is designed to be flexible with application loads, website loads and network loads, automatically scaling in order to fit the current need. 
+
+Use cases for Elastic Load Balancer:
+1. Achieve high availablility and better fault tolerance: Elastic Load Balancer balances traffic across healthy targets in multiple availability zones. If one target becomes unhealthy, it is designed to automatically use a different target in an availability zone and then switch back to the original once it becomes healthy again.
+
+2. Auto scale applications: Remember in the Compute section when we talked about EC2 instances? Well you can use auto scaling in order to auto create more instances in order to handle larger work loads. When a application is handling more than it can, Elastic Load Balancing can be triggered to create more instances to handle the current load and then shut those instances down when the load returns to normal.
+
+3. Enable hybrid Load balancing: Elastic Load Balancing allows you to split load balancing across AWS and on-premises resources by using the same load balancer for both.
+
+To be as cost effective as possible AWS has created CloudWatch, allowing you to monitor instances, websites and applications that run on the AWS Cloud. It gives you insite on how much of your infastructure is actually being used, how effectively your applications are running or if you should launch more EC2 instances to take on a greater work load. Infact CloudWatch can be used to set alarms that trigger certain actions like senting you a notification or creating more instances using the Elastic Load Balancing system. 
+
+
+
